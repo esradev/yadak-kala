@@ -1,0 +1,6 @@
+{
+  "name": "یدک‌کالا | فروشگاه تخصصی لوازم یدکی خودرو",
+  "description": "سامانه جامع خرید آنلاین قطعات و لوازم یدکی اصل خودرو، رهگیری زنده سفارش، پشتیبانی و گاراژ هوشمند",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
